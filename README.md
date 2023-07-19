@@ -5,7 +5,6 @@ I'm Ignacio Tampe, a data scientist with a strong passion for leveraging data to
 
 With experience at top-tier companies like Microsoft and Uber, I have had the privilege of working on exciting projects that have allowed me to refine my skills and make a tangible impact. At Microsoft, I designed and developed end-to-end ML solutions for the Clarity Insights Team. Notably, I created an automatic insights digest feature that reached over 300,000 users, providing personalized recommendations and highlighting key metric changes.
 
-- 🔭 I’m currently looking for data science and ML roles
 - 😍 My hobbies are photography, computers, self-hosting and lately a bit of gardening
 - 🌱 I’m currently learning how to not kill my plants
 - 📫  How to reach me: Feel free to message me on [Linkedin](https://www.linkedin.com/in/itampepalma/)
